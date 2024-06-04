@@ -4,7 +4,7 @@ import stripe
 app = Flask(__name__)
 
 #in reality this should be in an environmental variable
-stripe.api_key = "sk_test_51PMywIKgoTqYhpheyE1LXrqdykuFYHeg1sNljVZnC89ZQ9vj9h71KvzcQa49si9gs3GaPRFUbf7uvoNx2p1GhmqG00jLbirhXq"
+stripe.api_key = "sike you thought"
 
 """
 Creates a connected account for the main Strip account to pay out
